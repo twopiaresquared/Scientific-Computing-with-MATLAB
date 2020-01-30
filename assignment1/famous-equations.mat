@@ -1,0 +1,9 @@
+%%Pythagoean Theorem:
+n=2
+a=3
+b=4
+c=sqrt(a^2+b^2)
+%%Mass-Energy Equivalence:
+m=0.01
+c=3.0*(10^8)
+E=m*(c^2)
