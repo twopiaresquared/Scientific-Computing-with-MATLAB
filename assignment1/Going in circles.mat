@@ -1,0 +1,10 @@
+%% The areas for the three circles, do not change these values. Find the radius of each, and don't worry about rounding.
+area1 = 3.1416
+area2 = 12.5664
+area3 = 50.2655
+
+%% Write your answers below here:
+
+radius1=sqrt(area1/pi)
+radius2=sqrt(area2/pi)
+radius3=sqrt(area3/pi)
