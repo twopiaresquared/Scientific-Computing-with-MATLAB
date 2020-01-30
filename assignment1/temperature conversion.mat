@@ -1,0 +1,6 @@
+%%Part1: F to C
+camdenF=27.00
+camdenC=(camdenF-32)*5/9
+%%Part2: C to F
+bahamasC=23.00
+bahamasF=((bahamasC)*9/5)+32
