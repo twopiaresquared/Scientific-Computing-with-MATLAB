@@ -1,0 +1,18 @@
+%%Here's what you get when you type just 'pi' into the command window.
+%%>> pi
+
+%%ans =
+
+%%    3.1416
+    
+%%If you try to round pi, it will always round down.
+%%>> round(pi)
+%%ans =
+
+%%     3
+
+%%Now try to round up pi, and then try to round up negative pi.
+
+ x=ceil(pi)
+ y=floor(-pi)
+ 
